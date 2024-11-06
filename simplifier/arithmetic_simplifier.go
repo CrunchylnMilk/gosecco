@@ -1,6 +1,6 @@
 package simplifier
 
-import "github.com/twtiger/gosecco/tree"
+import "github.com/CrunchylnMilk/gosecco/tree"
 
 // AcceptBinaryNegation implements Visitor
 func (s *arithmeticSimplifier) AcceptBinaryNegation(v tree.BinaryNegation) {

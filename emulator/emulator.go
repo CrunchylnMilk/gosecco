@@ -5,7 +5,7 @@ import (
 	"log"
 	"syscall"
 
-	"github.com/twtiger/gosecco/data"
+	"github.com/CrunchylnMilk/gosecco/data"
 
 	"golang.org/x/sys/unix"
 )

@@ -1,6 +1,6 @@
 package parser
 
-import "github.com/twtiger/gosecco/tree"
+import "github.com/CrunchylnMilk/gosecco/tree"
 
 var addOperator = map[token]tree.ArithmeticType{
 	ADD: tree.PLUS,

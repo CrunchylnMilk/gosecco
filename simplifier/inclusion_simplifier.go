@@ -1,6 +1,6 @@
 package simplifier
 
-import "github.com/twtiger/gosecco/tree"
+import "github.com/CrunchylnMilk/gosecco/tree"
 
 // AcceptInclusion implements Visitor
 func (s *inclusionSimplifier) AcceptInclusion(a tree.Inclusion) {

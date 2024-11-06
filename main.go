@@ -3,7 +3,7 @@ package gosecco
 import (
 	"fmt"
 
-	"github.com/twtiger/gosecco/parser"
+	"github.com/CrunchylnMilk/gosecco/parser"
 )
 
 func main() {

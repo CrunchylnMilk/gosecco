@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 // Source represents a source of parsing data

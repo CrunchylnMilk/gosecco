@@ -1,7 +1,7 @@
 package compiler
 
 import (
-	"github.com/twtiger/gosecco/asm"
+	"github.com/CrunchylnMilk/gosecco/asm"
 	. "gopkg.in/check.v1"
 )
 

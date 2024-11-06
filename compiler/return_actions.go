@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/twtiger/gosecco/constants"
+	"github.com/CrunchylnMilk/gosecco/constants"
 )
 
 const (

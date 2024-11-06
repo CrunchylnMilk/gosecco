@@ -3,7 +3,7 @@ package unifier
 import (
 	"strconv"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 func getDefaultAction(t tree.Macro) string {

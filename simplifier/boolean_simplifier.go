@@ -1,6 +1,6 @@
 package simplifier
 
-import "github.com/twtiger/gosecco/tree"
+import "github.com/CrunchylnMilk/gosecco/tree"
 
 // AcceptOr implements Visitor
 func (s *booleanSimplifier) AcceptOr(a tree.Or) {

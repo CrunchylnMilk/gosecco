@@ -4,8 +4,8 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/twtiger/gosecco/constants"
-	"github.com/twtiger/gosecco/data"
+	"github.com/CrunchylnMilk/gosecco/constants"
+	"github.com/CrunchylnMilk/gosecco/data"
 )
 
 // #include <linux/seccomp.h>

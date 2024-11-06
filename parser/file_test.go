@@ -5,7 +5,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 
 	. "gopkg.in/check.v1"
 )

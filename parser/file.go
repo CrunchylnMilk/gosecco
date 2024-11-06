@@ -3,7 +3,7 @@ package parser
 import (
 	"fmt"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 // ParseError represents error parsing a policy file. It will report the filename and the line number as well as the actual error.

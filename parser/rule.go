@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 var ruleHeadRE = regexp.MustCompile(`^[[:space:]]*([[:word:]]+)[[:space:]]*(?:\[(.*)\])?[[:space:]]*$`)

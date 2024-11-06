@@ -1,6 +1,6 @@
 package simplifier
 
-import "github.com/twtiger/gosecco/tree"
+import "github.com/CrunchylnMilk/gosecco/tree"
 
 func reduceTransformers(inp tree.Expression, ss ...tree.Transformer) tree.Expression {
 	result := inp

@@ -3,7 +3,7 @@ package compiler
 import (
 	"errors"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 // The numeric compiler actually needs a stack to function

@@ -3,7 +3,7 @@ package compiler
 import (
 	"errors"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 // The boolean compiler uses the stack for simplicity, but we could probably do without

@@ -3,7 +3,7 @@ package asm
 import (
 	"syscall"
 
-	"github.com/twtiger/gosecco/compiler"
+	"github.com/CrunchylnMilk/gosecco/compiler"
 
 	"golang.org/x/sys/unix"
 

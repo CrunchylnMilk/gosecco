@@ -3,7 +3,7 @@ package compiler
 import (
 	"fmt"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 // This is part of the boolean compiler visitor, but needs its own file because of some of the complications involved

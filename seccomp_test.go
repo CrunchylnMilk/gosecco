@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/twtiger/gosecco/asm"
+	"github.com/CrunchylnMilk/gosecco/asm"
 	"golang.org/x/sys/unix"
 
 	. "gopkg.in/check.v1"

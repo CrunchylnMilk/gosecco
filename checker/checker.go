@@ -4,8 +4,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/twtiger/gosecco/constants"
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/constants"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 // The assumption is that the input to the checker is a simplified, unified

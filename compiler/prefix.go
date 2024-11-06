@@ -1,6 +1,6 @@
 package compiler
 
-import "github.com/twtiger/gosecco/native"
+import "github.com/CrunchylnMilk/gosecco/native"
 
 const archIndex = 4
 

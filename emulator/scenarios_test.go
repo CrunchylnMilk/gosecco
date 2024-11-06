@@ -6,7 +6,7 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"github.com/twtiger/gosecco/data"
+	"github.com/CrunchylnMilk/gosecco/data"
 
 	. "gopkg.in/check.v1"
 )

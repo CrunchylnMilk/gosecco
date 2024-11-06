@@ -4,7 +4,7 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/twtiger/gosecco/compiler"
+	"github.com/CrunchylnMilk/gosecco/compiler"
 
 	"golang.org/x/sys/unix"
 

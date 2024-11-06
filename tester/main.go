@@ -6,8 +6,8 @@ import (
 
 	"golang.org/x/sys/unix"
 
-	"github.com/twtiger/gosecco"
-	"github.com/twtiger/gosecco/asm"
+	"github.com/CrunchylnMilk/gosecco"
+	"github.com/CrunchylnMilk/gosecco/asm"
 )
 
 func fileExists(filename string) bool {

@@ -3,7 +3,7 @@ package precompilation
 import (
 	"fmt"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 // The precompilation checker ensures that the given rule matches the

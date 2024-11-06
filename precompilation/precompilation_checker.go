@@ -3,7 +3,7 @@ package precompilation
 import (
 	"fmt"
 
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 type precompilationTypeChecker struct {

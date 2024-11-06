@@ -6,8 +6,8 @@ import (
 	"sort"
 	"syscall"
 
-	"github.com/twtiger/gosecco/constants"
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/constants"
+	"github.com/CrunchylnMilk/gosecco/tree"
 
 	"golang.org/x/sys/unix"
 )

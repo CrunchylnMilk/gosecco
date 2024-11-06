@@ -3,8 +3,8 @@ package unifier
 import (
 	"fmt"
 
-	"github.com/twtiger/gosecco/constants"
-	"github.com/twtiger/gosecco/tree"
+	"github.com/CrunchylnMilk/gosecco/constants"
+	"github.com/CrunchylnMilk/gosecco/tree"
 )
 
 type replacer struct {
