@@ -3,7 +3,6 @@ package constants
 import (
 	"strings"
 	"syscall"
-	"fmt"
 )
 
 // AllConstants contain a mapping from the name of a constant to its value
@@ -1784,9 +1783,7 @@ func init() {
 
 // GetSyscall returns the syscall number for the given name if it exists
 func GetSyscall(name string) (uint32, bool) {
-	fmt.Println("DEBUG: Seeking: ",name)
 	res, ok := Syscalls[strings.ToLower(name)]
-	fmt.Println("DEBUG: Result: ",res)
 	return uint32(res), ok
 }
 
